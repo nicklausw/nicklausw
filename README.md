@@ -2,7 +2,7 @@
 I'm some guy in Marietta who likes computers. I'm quite opinionated on them, which clearly indicates my skill.
 
 ### Did you know that I...
-* [Have a website?](https://nicklausw.com)
+* [Have a website?](https://nicklausw.net)
 * [Keep that website open-source?](https://github.com/nicklausw/mysite)
 * [Wrote a Discord bot that counts your words in an SQL database?](https://github.com/nicklausw/wordbot)
 * [Wrote another Discord bot mostly in COBOL?](https://github.com/nicklausw/comparse)
