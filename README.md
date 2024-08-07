@@ -1,5 +1,5 @@
 ### Heyo.
-I'm some guy in Marietta who likes computers. I'm quite opinionated on them, which clearly indicates my skill.
+I'm some guy in Douglasville who likes computers. I'm quite opinionated on them, which clearly indicates my skill.
 
 ### Did you know that I...
 * [Have a website?](https://nicklausw.net)
